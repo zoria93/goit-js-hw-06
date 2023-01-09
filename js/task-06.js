@@ -12,4 +12,3 @@ validationInput.addEventListener("blur", () => {
     
 });
 
-
